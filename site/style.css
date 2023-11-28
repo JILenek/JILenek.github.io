@@ -1,0 +1,21 @@
+h1#q{
+color:aqua;
+letter-spacing: .5em;
+text-transform: lowercase;
+margin-bottom: 2em;
+font-weight: 700;
+}
+p#header1{
+color:rgb(43, 255, 0);
+letter-spacing: .1em;
+text-transform:capitalize;
+margin-bottom: 3em;
+font-weight: 1009;    
+}
+p.content1{
+color:rgb(140, 0, 255);
+letter-spacing: .7em;
+text-transform:uppercase;
+margin-bottom: 1em;
+font-weight: 100;
+}
